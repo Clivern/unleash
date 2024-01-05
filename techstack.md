@@ -66,7 +66,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [Clivern/unleash](https://github.com/Clivern/unleash)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|84<br/>Tools used|12/21/23 <br/>Report generated|
+|87<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -335,9 +335,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (55)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (58)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (55)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (58)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -375,10 +375,13 @@ Full tech stack [here](/techstack.md)
 |[fetch-mock](https://www.npmjs.com/fetch-mock)|v9.11.0|09/27/21|renovate[bot] |MIT|N/A|
 |[file-loader](https://www.npmjs.com/file-loader)|v6.2.0|09/27/21|renovate[bot] |MIT|N/A|
 |[helmet](https://www.npmjs.com/helmet)|v4.6.0|09/01/20|Ivar Conradi Østhus |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v7.0.4|10/21/21|Renovate Bot |MIT|N/A|
 |[jest-fetch-mock](https://www.npmjs.com/jest-fetch-mock)|v3.0.3|12/30/21|Renovate Bot |MIT|N/A|
 |[joi](https://www.npmjs.com/joi)|v17.4.2|10/20/14|ivaosthu |BSD-3-Clause|N/A|
 |[js-yaml](https://www.npmjs.com/js-yaml)|v3.14.1|11/19/21|Renovate Bot |MIT|N/A|
 |[knex](https://www.npmjs.com/knex)|v0.95.15|12/22/21|Renovate Bot |MIT|[CVE-2016-20018](https://github.com/advisories/GHSA-4jv9-3563-23j3) (High)|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v12.1.4|12/27/21|Renovate Bot |MIT|N/A|
+|[log4js](https://www.npmjs.com/log4js)|v6.3.0|11/18/19|greenkeeper[bot] |Apache-2.0|[CVE-2022-21704](https://github.com/advisories/GHSA-82v2-mx6x-wq7q) (Moderate)|
 |[memoizee](https://www.npmjs.com/memoizee)|v0.4.15|09/27/21|renovate[bot] |ISC|N/A|
 |[mime](https://www.npmjs.com/mime)|v1.6.0|11/02/21|Lennart |MIT|N/A|
 |[multer](https://www.npmjs.com/multer)|v1.4.3|03/13/19|Benjamin Ludewig |MIT|N/A|
