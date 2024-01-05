@@ -2,11 +2,11 @@ repo_name: Clivern/unleash
 report_id: 4b6bf3a46061db0a1b22eff2700448ef
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-21T15:25:13+00:00'
+timestamp: '2024-01-05T08:19:04+00:00'
 requested_by: renovate-bot
 provider: github
 branch: master
-detected_tools_count: 84
+detected_tools_count: 87
 tools:
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -16,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/Clivern/unleash
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -26,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/Clivern/unleash
   detection_source: Repo Metadata
 - name: Mustache
   description: Logic-less templates
@@ -35,6 +37,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Templating Languages & Extensions
   image_url: https://img.stackshare.io/service/1142/197655.png
+  detection_source_url: https://github.com/Clivern/unleash
   detection_source: Repo Metadata
 - name: SQL
   description: It is a domain-specific language used in programming
@@ -44,6 +47,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/Clivern/unleash/blob/master/scripts/fix-migrations-version-1.sql
   detection_source: scripts/fix-migrations-version-1.sql
   last_updated_by: ivaosthu
   last_updated_on: 2016-12-23 09:35:02.000000000 Z
@@ -56,6 +60,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/Clivern/unleash
   detection_source: Repo Metadata
 - name: ExpressJS
   description: Sinatra inspired web development framework for node.js -- insanely
@@ -81,6 +86,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/Clivern/unleash/blob/master/package.json
   detection_source: package.json
   last_updated_by: ivaosthu
   last_updated_on: 2014-10-20 11:03:43.000000000 Z
@@ -106,6 +112,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1028/ASOhU5xJ.png
+  detection_source_url: https://github.com/Clivern/unleash/blob/master/package.json
   detection_source: package.json
   last_updated_by: Ivar Conradi Østhus
   last_updated_on: 2021-10-26 21:20:36.000000000 Z
@@ -118,6 +125,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/Clivern/unleash/blob/master/package.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2021-11-15 16:44:28.000000000 Z
@@ -144,6 +152,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Coverage
   image_url: https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png
+  detection_source_url: https://github.com/Clivern/unleash/blob/master/package.json
   detection_source: package.json
   last_updated_by: Ivar Conradi Østhus
   last_updated_on: 2021-10-06 12:02:58.000000000 Z
@@ -156,6 +165,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/Clivern/unleash/blob/master/.eslintrc
   detection_source: ".eslintrc"
   last_updated_by: Anders Olsen Sandvik
   last_updated_on: 2016-04-24 20:41:37.000000000 Z
@@ -167,6 +177,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Clivern/unleash
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -176,6 +187,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/Clivern/unleash/blob/master/.github/workflows/build.yaml
   detection_source: ".github/workflows/build.yaml"
   last_updated_by: renovate[bot]
   last_updated_on: 2021-09-27 17:21:13.000000000 Z
@@ -217,6 +229,7 @@ tools:
   category: Monitoring
   sub_category: Monitoring Tools
   image_url: https://img.stackshare.io/service/2501/default_3cf1b307194b26782be5cb209d30360580ae5b3c.png
+  detection_source_url: https://github.com/Clivern/unleash/blob/master/package.json
   detection_source: package.json
   last_updated_by: ivaosthu
   last_updated_on: 2014-10-20 11:03:43.000000000 Z
@@ -242,6 +255,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/Clivern/unleash/blob/master/yarn.lock
   detection_source: yarn.lock
   last_updated_by: sveisvei
   last_updated_on: 2017-06-28 08:20:22.000000000 Z
@@ -253,6 +267,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/Clivern/unleash/blob/master/website/package.json
   detection_source: website/package.json
   last_updated_by: Christopher Kolstad
   last_updated_on: 2021-06-04 09:17:15.000000000 Z
@@ -265,6 +280,7 @@ tools:
   category: Application Hosting
   sub_category: Platform as a Service
   image_url: https://img.stackshare.io/service/133/3wgIDj3j.png
+  detection_source_url: https://github.com/Clivern/unleash/blob/master/app.json
   detection_source: app.json
   last_updated_by: ivaosthu
   last_updated_on: 2018-11-22 10:20:28.000000000 Z
@@ -276,6 +292,7 @@ tools:
   category: Communications
   sub_category: Transactional Email
   image_url: https://img.stackshare.io/service/2862/qr2-jCLr.jpg
+  detection_source_url: https://github.com/Clivern/unleash/blob/master/package.json
   detection_source: package.json
   last_updated_by: renovate[bot]
   last_updated_on: 2021-09-27 07:09:49.000000000 Z
@@ -288,6 +305,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/Clivern/unleash
   detection_source: Repo Metadata
 - name: date-fns
   description: Modern JavaScript date utility library
@@ -298,6 +316,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/10865/default_5551fb8853689f607a2bc0d5a09355d5a3d52bf0.png
+  detection_source_url: https://github.com/Clivern/unleash/blob/master/package.json
   detection_source: package.json
   last_updated_by: Martin Lehmann
   last_updated_on: 2021-10-26 18:13:30.000000000 Z
@@ -306,6 +325,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/9527/5502029.jpeg
+  detection_source_url: https://github.com/Clivern/unleash/blob/master/package.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2021-10-21 03:41:41.000000000 Z
@@ -314,6 +334,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/10577/11071.jpeg
+  detection_source_url: https://github.com/Clivern/unleash/blob/master/package.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2021-12-27 19:37:21.000000000 Z
@@ -323,6 +344,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/3962/pBeeJQDQ_normal.png
+  detection_source_url: https://github.com/Clivern/unleash/blob/master/package.json
   detection_source: package.json
   last_updated_by: greenkeeper[bot]
   last_updated_on: 2019-11-18 07:11:38.000000000 Z
@@ -332,6 +354,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/8032/pBeeJQDQ_normal.png
+  detection_source_url: https://github.com/Clivern/unleash/blob/master/package.json
   detection_source: package.json
   last_updated_by: Ivar Conradi Østhus
   last_updated_on: 2021-10-06 12:02:58.000000000 Z
@@ -825,6 +848,20 @@ tools:
   detection_source: package.json
   last_updated_by: Ivar Conradi Østhus
   last_updated_on: 2020-09-01 19:19:46.000000000 Z
+- name: husky
+  description: Prevents bad commit or push
+  package_url: https://www.npmjs.com/husky
+  version: 7.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/Clivern/unleash/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Renovate Bot
+  last_updated_on: 2021-10-21 03:41:41.000000000 Z
 - name: jest-fetch-mock
   description: Fetch mock for jest
   package_url: https://www.npmjs.com/jest-fetch-mock
@@ -888,6 +925,41 @@ tools:
     detected_date: Dec 21
     severity: high
     first_patched: 2.4.0
+- name: lint-staged
+  description: Lint files staged by git
+  package_url: https://www.npmjs.com/lint-staged
+  version: 12.1.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15868/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/Clivern/unleash/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Renovate Bot
+  last_updated_on: 2021-12-27 19:37:21.000000000 Z
+- name: log4js
+  description: Port of Log4js to work with node
+  package_url: https://www.npmjs.com/log4js
+  version: 6.3.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16355/default_22cf6cee54c697b5a223902962cc57a55ee80be9.png
+  detection_source_url: https://github.com/Clivern/unleash/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: greenkeeper[bot]
+  last_updated_on: 2019-11-18 07:11:38.000000000 Z
+  vulnerabilities:
+  - name: Incorrect Default Permissions in log4js
+    cve_id: CVE-2022-21704
+    cve_url: https://github.com/advisories/GHSA-82v2-mx6x-wq7q
+    detected_date: Jan 22
+    severity: moderate
+    first_patched: 6.4.0
 - name: memoizee
   description: Memoize/cache function results
   package_url: https://www.npmjs.com/memoizee
