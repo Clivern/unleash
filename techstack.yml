@@ -2,7 +2,7 @@ repo_name: Clivern/unleash
 report_id: 4b6bf3a46061db0a1b22eff2700448ef
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:19:04+00:00'
+timestamp: '2024-02-29T19:08:52+00:00'
 requested_by: renovate-bot
 provider: github
 branch: master
@@ -206,7 +206,7 @@ tools:
   last_updated_by: Christopher Kolstad
   last_updated_on: 2021-08-12 13:04:37.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.5.1
   license: MIT
@@ -234,7 +234,7 @@ tools:
   last_updated_by: ivaosthu
   last_updated_on: 2014-10-20 11:03:43.000000000 Z
 - name: SuperTest
-  description: 'A library for testing node.js HTTP servers '
+  description: A library for testing node.js HTTP servers
   website_url: https://www.npmjs.com/package/supertest
   version: 6.1.6
   license: MIT
